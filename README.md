@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Solution](https://github.com/ErikeRodrigues/results-summary-component-main)
-- Live Site URL: [Results Summary Component](https://your-live-site-url.com)
+- Live Site URL: [Results Summary Component](https://erikerodrigues.github.io/results-summary-component-main/)
 
 ### Built with
 
